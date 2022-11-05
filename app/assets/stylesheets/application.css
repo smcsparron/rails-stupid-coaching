@@ -10,6 +10,23 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
- *= require_tree .
- *= require_self
  */
+ /* *= require_tree .
+ *= require_self */
+/*
+ .quote {
+  border-left: solid 5 px grey;
+ }
+
+ .coach {
+  background-color: yellow;
+ }
+
+
+ .input-group, h1 {
+  padding: 20px !important;
+ }
+
+ #textInput {
+  width: 70%;
+ } */
